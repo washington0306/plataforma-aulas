@@ -252,6 +252,7 @@ DEPENDENCIES
   capybara
   debug
   devise (~> 4.2)
+  i18n (~> 1.14, >= 1.14.1)
   importmap-rails
   jbuilder
   puma (>= 5.0)
